@@ -1,0 +1,59 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, p {
+    text-align: center;
+}
+
+.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Arial', sans-serif;
+}
+
+.dark-theme {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Verdana, Geneva, Tahoma, sans-serif';
+}
+
+/* Customize button styles */
+button {
+    background-color: #0099ff;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0099ff;
+}
+
+/*button styles */
+
+
+button#setTitle {
+    background-color: #0099ff;
+}
+
+button#setDescription {
+    background-color: #0099ff;
+}
+
+button#setBackgroundColor {
+    background-color: #0099ff;
+}
+
+button#setFontColor {
+    background-color: #0099ff;
+}
+
+button#setTheme {
+    background-color: #0099ff;
+}
